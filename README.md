@@ -15,4 +15,3 @@ Los analistas perdían días cada trimestre limpiando manualmente datos de venta
 
 - Python
 - Pandas
-- CSV / JSON
